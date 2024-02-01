@@ -1,1 +1,23 @@
- 
+Exempel på titlar: 
+(1)Möjligheter och utmaningar för mänskligheten i en AI-styrd värld.
+(2)Utbildning och kompetensutveckling i en AI-driven framtid.
+(3)Framtidens arbetsliv: Hur AI förändrar arbetet och vad det kräver av oss.
+
+Bakgrund innehåll/teori:
+Utifrån (1), AI:s snabba utveckling och potential:
+-Introduktion av AI och dess snabba framsteg.
+-Beskrivning av AI:s potential att förbättra olika aspekter av livet.
+Behovet av att analysera effekterna av AI:
+-Betydelsen av att förstå både positiva och negativa effekter.
+-Bristande forskning om AI:s långsiktiga konsekvenser.
+
+Syfte:
+Utifrån (1), Att identifiera och analysera de potentiella möjligheterna som AI kan erbjuda mänskligheten i olika aspekter av livet, t.ex.:
+-Förbättrad hälsa och välbefinnande: AI kan bidra till att diagnostisera och behandla sjukdomar, förbättra äldreomsorgen och ge individanpassad hälsoinformation.
+-Ökad produktivitet och effektivitet: AI kan automatisera repetitiva uppgifter, frigöra tid för mer kreativt arbete och optimera processer inom olika branscher.
+-Förbättrad utbildning och lärande: AI kan ge individanpassad undervisning, skapa engagerande lärmiljöer och automatisera administrativa uppgifter.
+-Hållbar utveckling och miljöskydd: AI kan användas för att övervaka och analysera miljödata, optimera resurshantering och utveckla nya lösningar på miljöproblem.
+
+Kortfattat syfte (1): 
+-Att identifiera och analysera möjligheter och utmaningar.
+-Att bidra till en mer nyanserad bild av AI:s framtid.
