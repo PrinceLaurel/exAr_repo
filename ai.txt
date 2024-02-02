@@ -1,1 +1,15 @@
- 
+Bard förklarar AI ACT (utan hjälp från pdf):
+Vad är AI ACT?
+AI ACT är ett föreslaget regelverk från Europeiska unionen som syftar till att ta itu med riskerna och de etiska konsekvenserna av artificiell intelligens. Den är utformad för att vara världens första heltäckande lagstiftning om AI.
+
+Varför behövs den?
+Användningen av AI växer snabbt och med det följer potentiella risker, såsom partiskhet, diskriminering, integritetskränkningar och säkerhetsproblem. AI-rättsakten syftar till att minska dessa risker genom att fastställa tydliga regler och krav för utvecklare och användare av AI-system.
+
+Vilka är de viktigaste funktionerna i AI ACT?
+-Den klassificerar AI-system i olika riskkategorier baserat på deras potentiella inverkan.           
+-I förordningen fastställs särskilda krav för AI-system med hög risk, t.ex. transparens, ansvarsskyldighet och mänsklig tillsyn.
+-Den förbjuder viss användning av AI, t.ex. social poängsättning och manipulativa AI-system.
+-Det kräver att utvecklare genomför riskbedömningar och tillhandahåller dokumentation om sina AI-system.
+
+Vad är den aktuella statusen för AI ACT?
+Rättsakten om artificiell intelligens är fortfarande under förhandling mellan EU-kommissionen, parlamentet och rådet. Den förväntas antas 2024.
