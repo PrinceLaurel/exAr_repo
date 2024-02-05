@@ -13,3 +13,74 @@ Vilka är de viktigaste funktionerna i AI ACT?
 
 Vad är den aktuella statusen för AI ACT?
 Rättsakten om artificiell intelligens är fortfarande under förhandling mellan EU-kommissionen, parlamentet och rådet. Den förväntas antas 2024.
+
+Bard förklarar pdf: eu-AI-rules (83 av 108 sidor)
+Först säger bard att denna dokument beskriver regler för system för artificiell intelligens (AI) inom Europeiska unionen.
+
+Dess primära mål är:
+-Säkerställa AI-systemens säkerhet och rättvisa: Detta uppnås genom krav på riskbedömning, teknisk dokumentation, transparens och mänsklig tillsyn.
+-Skydda de grundläggande rättigheterna: Förordningen tar upp potentiella risker för integritet, icke-diskriminering och andra grundläggande rättigheter som AI-system medför.
+-Upprätta en tydlig rättslig ram för AI: Detta ger tydlighet och förutsägbarhet för företag som utvecklar och använder AI-system, vilket främjar innovation samtidigt som riskerna minskas.
+
+De viktigaste aspekterna av förordningen är följande:
+-Riskklassificering: AI-system kategoriseras utifrån deras risknivå, med strängare krav för högrisksystem (t.ex. inom hälso- och sjukvård eller brottsbekämpning).
+-Bedömning av överensstämmelse: Leverantörer av högrisksystem måste genomgå förfaranden för bedömning av överensstämmelse för att visa att de följer förordningen.
+-Transparens och förklarbarhet: Leverantörerna måste kunna förklara hur deras AI-system fungerar och de beslut de fattar, särskilt när det gäller högrisksystem.
+-Mänsklig tillsyn: Människor måste involveras i utveckling, införande och användning av AI-system med hög risk för att säkerställa ansvarsfull användning och förhindra missbruk.
+-Dataförvaltning: I förordningen fastställs krav på ansvarsfull insamling, användning och lagring av data för AI-system.
+-Marknadskontroll och tillsyn: Mekanismer inrättas för att säkerställa efterlevnad av förordningen och ta itu med AI-system som inte uppfyller kraven.
+
+Sammanfattning om vad AI ACT är utifrån dessa 83 sidor:
+AI-akten, som presenteras på dessa 83 sidor, syftar till att upprätta en övergripande rättslig ram för artificiell intelligens (AI) inom Europeiska unionen. Den är inriktad på att säkerställa både säkerhet och rättvisa för AI-system samtidigt som de grundläggande rättigheterna skyddas.
+Här är en sammanfattning av de viktigaste punkterna:
+
+-Riskbaserat tillvägagångssätt: AI-system kategoriseras utifrån deras potentiella risker, med strängare krav på högrisksystem som de inom hälso- och sjukvården eller brottsbekämpning.
+-Efterlevnad: Leverantörer av högrisksystem måste genomgå särskilda förfaranden för att visa att deras system uppfyller säkerhets- och rättvisestandarder.
+-Transparens och förklarbarhet: Leverantörerna måste kunna förklara hur deras AI-system fungerar och de beslut de fattar, särskilt för högrisksystem.
+-Mänsklig tillsyn: Mänsklig inblandning är avgörande under hela utvecklingen, införandet och användningen av AI-system med hög risk för att säkerställa ansvarsfull användning.
+-Dataförvaltning: I lagen fastställs regler för ansvarsfull insamling, användning och lagring av data som är specifika för AI-system.
+-Verkställighetsmekanismer: Förfaranden inrättas för att övervaka efterlevnaden och ta itu med AI-system som inte uppfyller kraven.
+
+Varför behövs AI ACT?
+
+1. Minska potentiella skador:
+
+-Partiskhet och diskriminering: Oreglerade AI-system kan vidmakthålla eller förstärka befintliga fördomar i samhället, vilket leder till diskriminerande resultat på områden som anställning, lånegodkännanden eller straffrätt. Lagens fokus på rättvisa och förklarbarhet syftar till att bekämpa sådana fördomar.
+-Integritetskränkningar: AI-system som samlar in och behandlar stora mängder personuppgifter utgör integritetsrisker. Lagen fastställer regler för dataförvaltning för att skydda den enskildes integritet och säkerställa en ansvarsfull dataanvändning.
+-Säkerhets- och trygghetsrisker: Felaktiga eller skadliga AI-system kan få betydande konsekvenser för säkerheten och tryggheten. Lagens förfaranden för riskbedömning och överensstämmelse med kraven syftar till att minimera dessa risker.
+
+2. Främja förtroende och öppenhet:
+
+-"Black box"-algoritmer: Komplexa AI-algoritmer kan vara ogenomskinliga, vilket gör det svårt att förstå hur de kommer fram till beslut. Lagens krav på förklarbarhet främjar transparens och bygger upp förtroendet för AI-system.
+-Ansvarsskyldighet för AI-åtgärder: Utan tydliga regler kan det vara svårt att avgöra vem som är ansvarig för ett AI-systems åtgärder. I lagen fastställs mekanismer för ansvarsskyldighet för leverantörer och operatörer.
+-Allmänhetens oro för AI: Många människor är oroliga för de potentiella negativa effekterna av AI. Lagen ger en ram för ansvarsfull AI-utveckling, tar itu med dessa problem och lugnar allmänheten.
+
+3. Jämna ut spelplanen:
+
+-Ojämnt regelverk: Utan tydliga EU-regler kan företagen ställas inför olika regler i olika länder, vilket hindrar innovation och rättvis konkurrens. Lagen skapar en harmoniserad rättslig ram för hela EU.
+-Skydd av konsumenter och medborgare: Oreglerad AI-utveckling kan göra konsumenter och medborgare sårbara för skadliga metoder. I lagen fastställs skyddsåtgärder för att skydda deras rättigheter och intressen.
+-Uppmuntra ansvarsfull innovation: Genom att fastställa tydliga förväntningar och standarder kan lagen uppmuntra till ansvarsfull utveckling och användning av AI, vilket främjar positiva fördelar för samhället.
+
+Sammanfattning:
+På det hela taget utgör detta dokument ett viktigt steg mot att reglera AI i EU, i syfte att balansera innovation med säkerhet, rättvisa och respekt för de grundläggande rättigheterna.
+
+Annan teknik som har föranlett behovet av Governance/Styrning:
+
+1. Kärnenergi: Efter de förödande konsekvenserna av atombomberna under andra världskriget upprättades internationella fördrag och nationella bestämmelser för att styra utveckling, användning och deponering av kärnmaterial, i syfte att förhindra spridning och garantera säkerheten.
+
+2. Genetiskt modifierade organismer (GMO): I takt med att gentekniken utvecklades uppstod oro över de potentiella riskerna med genetiskt modifierade organismer för människors hälsa, den biologiska mångfalden och miljön. Detta ledde till regler för utveckling, testning och märkning av GMO i många länder.
+
+3. Sociala medieplattformar: Den snabba tillväxten av sociala medieplattformar och deras inverkan på informationsspridning, integritet och till och med val sporrade till krav på styrning. Olika initiativ har dykt upp för att ta itu med frågor som hatpropaganda, desinformation och datasekretess på dessa plattformar.
+
+4. Autonoma fordon: Med utvecklingen av självkörande bilar uppstod oro för säkerhet, ansvar och etiska överväganden i händelse av olyckor med autonoma fordon. Regeringar och branschgrupper arbetar med regler och etiska ramverk för att vägleda utvecklingen och användningen av denna teknik.
+
+5. Robotik: I takt med att robotar blir allt mer sofistikerade och integrerade i olika sektorer uppstår frågor om omflyttning av jobb, arbetarnas säkerhet och etiska konsekvenser av att använda robotar inom känsliga områden som sjukvård eller brottsbekämpning. Styrningsramar undersöks för att ta itu med dessa potentiella utmaningar.
+
+Det här är bara några exempel, och behovet av styrning uppstår ofta från en kombination av faktorer, bland annat:
+
+-Potentiella risker: Teknikens potential att orsaka skada på individer, samhälle eller miljö.
+-Osäkerhet: Brist på fullständig förståelse för teknikens långsiktiga effekter.
+-Etiska överväganden: Frågor om de etiska implikationerna av att använda tekniken på vissa sätt.
+-Maktobalanser: Oro för hur tekniken skulle kunna användas för att koncentrera makt eller diskriminera vissa grupper.
+
+Genom att upprätta styrningsramar kan samhällen sträva efter att minska dessa risker, säkerställa ansvarsfull utveckling och användning av tekniken och maximera dess fördelar för alla. I takt med att AI fortsätter att utvecklas kommer behovet av effektiv styrning sannolikt att bli ännu viktigare.
